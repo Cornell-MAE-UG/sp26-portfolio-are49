@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Alex Elia
 description              : Alex Elia - Projects and CV 
-baseurl                  : "sp26-portfolio-elia" 
+baseurl                  : "sp26-portfolio-are49" 
 
 # Theme and Style
 theme: jekyll-theme-minimal
