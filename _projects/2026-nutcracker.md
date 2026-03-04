@@ -2,6 +2,7 @@
 layout: project
 title: Nutcracker
 description: Mini Design Project
+technologies: N/A
 image: /assets/images/nutcracker.png
 ---
 
